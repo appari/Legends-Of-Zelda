@@ -1,0 +1,3 @@
+/Users/apparilalith/Documents/personal/iiith/graphics/ass2/20161038/CMakeFiles/zelda_new.dir
+/Users/apparilalith/Documents/personal/iiith/graphics/ass2/20161038/CMakeFiles/ALL_BUILD.dir
+/Users/apparilalith/Documents/personal/iiith/graphics/ass2/20161038/CMakeFiles/ZERO_CHECK.dir

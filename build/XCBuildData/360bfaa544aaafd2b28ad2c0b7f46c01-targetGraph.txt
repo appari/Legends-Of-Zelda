@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+ZERO_CHECK in zelda_new, no dependencies
+zelda_new in zelda_new, depends on:
+ZERO_CHECK in zelda_new (explicit)
+ALL_BUILD in zelda_new, depends on:
+ZERO_CHECK in zelda_new (explicit)
+zelda_new in zelda_new (explicit)
